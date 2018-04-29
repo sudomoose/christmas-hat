@@ -68,7 +68,7 @@ if(isset($_FILES['image']))
 
                 <form method="POST" action="download.php">
                     <input type="hidden" value="" name="data" id="image_data" />
-                    <input type="hidden" value="<?=htmlspecialchars($file_name)?>_CHRISTMAS-HAT" name="name" id="output_filename" />
+                    <input type="hidden" value="<?=htmlspecialchars($file_name)?>_TOILET" name="name" id="output_filename" />
                     <button class="full" type="submit" id="save_button">Download</button>
                     <button class="full" type="button" id="restart_button">Do Another</button>
                 </form>

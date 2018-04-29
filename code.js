@@ -191,7 +191,7 @@ function initializeEditPage() {
         canvas.add(canvas_outline); // add the crop outline
         canvas.setActiveObject(canvas_hat); // make sure the christmas hat is selected
     };
-    _hat.src = "res/Christmas-Hat.png";
+    _hat.src = "res/Toilet.png";
 
     // change the visible card
     $("#upload").hide();
