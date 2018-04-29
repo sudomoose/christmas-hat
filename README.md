@@ -1,2 +1,1 @@
-![add a Christmas Hat](http://theadamgaskins.com/ChristmasHat/res/titlex2_black.png)
-
+A fork of Adam Gaskin's christmas hat adder thing
